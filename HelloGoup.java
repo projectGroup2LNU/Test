@@ -6,5 +6,6 @@ public class HelloGoup
 	{
 		System.out.println("Hello Group!");
 		System.out.println("Hello from mainAccount");
+		System.out.println("Joakim says Hello");
 	}
 }
